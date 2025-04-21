@@ -39,3 +39,5 @@ class GitHubAPI:
 
         # Send the update request
         return self._put(endpoint, data)
+
+new version 
